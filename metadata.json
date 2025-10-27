@@ -1,0 +1,5 @@
+{
+  "name": "Bakteerikasvun Simulaattori",
+  "description": "Yksinkertainen simulaattori bakteerien eksponentiaalisen kasvun visualisointiin. Syötä jakaantumisnopeus ja katso, kuinka nopeasti populaatio kasvaa.",
+  "requestFramePermissions": []
+}
